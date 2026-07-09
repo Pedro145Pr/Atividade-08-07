@@ -14,8 +14,8 @@
 /* Configuração do corpo da página */
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #eef5f9;
-    color: #333333;
+    background-color: #000000;
+    color: #ffffff;
     line-height: 1.6;
 }
 
@@ -24,10 +24,10 @@ body {
     width: 85%;
     max-width: 1000px;
     margin: 30px auto;
-    background-color: #ffffff;
+    background-color: #6d026d;
     padding: 25px;
     border-radius: 10px;
-    box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 12px rgba(109, 109, 109, 0.288);
 }
 
 /* Cabeçalho */
@@ -38,13 +38,13 @@ header {
 
 /* Título principal */
 h1 {
-    color: #1565c0;
+    color: #003879;
     margin-bottom: 15px;
 }
 
 /* Títulos das seções */
 h2 {
-    color: #2e7d32;
+    color: #004e04;
     margin-bottom: 10px;
 }
 
